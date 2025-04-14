@@ -1,1 +1,1 @@
-# StochasticProcessesQueueTheory
+# StochasticProcessesQueueingTheory
